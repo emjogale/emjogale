@@ -5,6 +5,7 @@
 - :zap: I created a Wordpress template for my husband's website which you can see [here](https://leegale.co.uk)
 - :confused: I'm looking for help with what direction to take and how to focus my learning
 - :nerd_face: meanwhile I am mainly working on projects from Frontend Mentor
+- :sparkles: and also learning TDD with [LadiesofCode](https://ladiesofcodegroupsessions.github.io)
 
 
 
