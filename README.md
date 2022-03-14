@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emma Gale
+- 👋 Hi, I’m Emma
 - :performing_arts: I currently work in costume but ..
 - 👀 I would like to move into front end development
 - 🌱 I’m currently learning Javascript and CSS
