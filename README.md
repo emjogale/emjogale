@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Emma
-- :performing_arts: I currently work in costume but ..
-- :nerd_face: Alongside this I'm learning Javascript, React and CSS - working on projects from [Frontend Mentor](https://www.frontendmentor.io/profile/emjogale) and the University of Helsinki [Fullstackopen](https://fullstackopen.com/en) course. I'm enjoying the course so much that I am also now interested in backend development :open_mouth:
+- 👋 Hi, 
+- I'm learning Javascript, React and CSS - working on projects from [Frontend Mentor](https://www.frontendmentor.io/profile/emjogale) and the University of Helsinki [Fullstackopen](https://fullstackopen.com/en) course. I'm enjoying the course so much that I am also now interested in backend development :open_mouth:
 - :sparkles: I'm also learning TDD with [Tech Risers Women](https://www.techriserswomen.com/) and have contributed to the development of their website
 - :zap: I first got interested in coding when I created a Wordpress template for my husband's website which you can see [here](https://leegale.co.uk)
 
